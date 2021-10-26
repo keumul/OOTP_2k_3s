@@ -1,0 +1,19 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Lab5.Agency, Lab5]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "Lab5.Agency, Lab5",
+      "Type": 0,
+      "Name": "Object1",
+      "Budget": 1000
+    },
+    {
+      "$type": "Lab5.Agency, Lab5",
+      "Name": "Meoq",
+      "Budget": 1300
+    },
+    {
+      "$type": "Lab5.Agency, Lab5"
+    }
+  ]
+}
