@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Карандаши>
+  <pencil id="123">
+    <color>Голубой</color>
+  </pencil>
+  <pencil id="124">
+    <color>Молочный</color>
+  </pencil>
+</Карандаши>

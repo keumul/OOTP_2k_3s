@@ -1,0 +1,1 @@
+{"$type":"System.Collections.Generic.List`1[[Lab14.Interface_Engine, 14]], System.Private.CoreLib","$values":[{"$type":"Lab14.CarE, 14","HorsePower":120,"Developer":"Kate"},{"$type":"Lab14.CarE, 14","HorsePower":123,"Developer":"Sasha"},{"$type":"Lab14.CarE, 14","HorsePower":126,"Developer":"Nastya"}]}
